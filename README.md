@@ -1,12 +1,11 @@
 
 
-# Christopher Landaverde  
-Central Florida  
+# How to reach me?
 chrislandav@gmail.com  
+https://www.linkedin.com/in/christopherlandaverde/
 
 
-
-Analytics Engineer with Junior Developer eb Skills
+Analytics Engineer with a knack for building scalable, data-driven solutions and a strong foundation in web development
 
 
 ## Technical Skills
@@ -15,7 +14,7 @@ Python, SQL, Power BI, BigQuery
 ## Professional Experience  
 
 ### Lead Commercial Analyst  
-**The Chamberlain Group** (June 2022 - Current)  
+**The Chamberlain Group** (June 2022 - December 2024)
 
 - Designed and developed a **Lead Generation Dashboard** using Power BI, integrating data from LinkedIn, SAP, Pardot, Salesforce, and Google Analytics to optimize lead generation efficiency.  
 - Created and implemented custom tags on **Tealium** and **Google Tag Manager** to enhance data collection and tracking capabilities for improved analytics.  
