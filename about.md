@@ -3,9 +3,9 @@
 # How to reach me?
 
 
-(chrislandav@gmail.com)
+- [chrislandav@gmail.com](mailto:chrislandav@gmail.com)
+- [LinkedIn: Christopher Landaverde](https://www.linkedin.com/in/christopherlandaverde/)
 
-(https://www.linkedin.com/in/christopherlandaverde/)
 
 
 Analytics Engineer with a knack for building scalable, data-driven solutions and a strong foundation in web development
@@ -13,6 +13,15 @@ Analytics Engineer with a knack for building scalable, data-driven solutions and
 
 ## Technical Skills
 Python, SQL, Power BI, BigQuery
+
+
+
+# Projects  
+
+- **Lead Generation Dashboards**: Enhanced marketing ROI through Power BI insights.  
+- **GA4 Migrations**: Migrated analytics setups for multi-domain tracking.  
+- **Data Pipelines**: Integrated data sources using Python and BigQuery.  
+- **A/B Testing Campaigns**: Optimized user engagement via experimental design.  
 
 ## Professional Experience  
 
