@@ -2,8 +2,9 @@
 
 # How to reach me?
 chrislandav@gmail.com  
-https://www.linkedin.com/in/christopherlandaverde/
+[chrislandav@gmail.com ]
 
+[ https://www.linkedin.com/in/christopherlandaverde/]
 
 Analytics Engineer with a knack for building scalable, data-driven solutions and a strong foundation in web development
 
